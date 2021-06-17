@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Parallel programming c sharp\Parallel programming c sharp\bin\Debug\Parallel programming c sharp.exe.config
+C:\Users\lenovo\source\repos\Parallel programming c sharp\Parallel programming c sharp\bin\Debug\Parallel programming c sharp.exe
+C:\Users\lenovo\source\repos\Parallel programming c sharp\Parallel programming c sharp\bin\Debug\Parallel programming c sharp.pdb
+C:\Users\lenovo\source\repos\Parallel programming c sharp\Parallel programming c sharp\obj\Debug\Parallel programming c sharp.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Parallel programming c sharp\Parallel programming c sharp\obj\Debug\Parallel programming c sharp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Parallel programming c sharp\Parallel programming c sharp\obj\Debug\Parallel programming c sharp.exe
+C:\Users\lenovo\source\repos\Parallel programming c sharp\Parallel programming c sharp\obj\Debug\Parallel programming c sharp.pdb
